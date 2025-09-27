@@ -1,3 +1,3 @@
 # Kolamconnect-frontend
-Connecting the world with heritage and culture(frontend)
+Connecting the world with heritage and culture(frontend-page)
 http://127.0.0.1:5500/upload.html
